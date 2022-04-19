@@ -1,0 +1,11 @@
+.rootParts {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin-top: 1rem;
+  }
+  .rootHeader {
+    width: 25rem;
+    display: flex;
+    justify-content: space-around;
+  }
